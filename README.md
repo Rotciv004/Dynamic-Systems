@@ -1,2 +1,2 @@
 # Dynamic-Systems
-Here I have some math problems solved in Maple
+A collection of mathematical problems solved using Maple, covering topics like differential equations, stability analysis, phase portraits, and system dynamics modeling.
